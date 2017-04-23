@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ES">
+<head>
+	<title>Viaje a Xico</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body class="w3-light-grey">
+	<div class="mySlides w3-display-container w3-center">
+    <img  src="https://goo.gl/Zp6m5y" style="width: 100%;">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <p class="w3-black">Mis compañeros y otros chavos de diferente semestre</p>   
+    </div>
+    <div class="w3-container w3-hide-large w3-hide-medium">
+      <p>Mis compañeros y otros chavos de diferente semestre</p>   
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img  src="https://goo.gl/HdN1op" style="width: 100%;">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <p class="w3-black">¿Alguien sabe usar Photoshop, para que quite a los del otro semestre?<br>
+      No se diga más</p>    
+    </div>
+    <div class="w3-container w3-hide-large w3-hide-medium">
+      <p>¿Alguien sabe usar Photoshop, para que quite a los del otro semestre?<br>
+      No se diga más</p>    
+    </div>
+  </div>
+  </body>
+  </html>
